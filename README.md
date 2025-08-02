@@ -47,9 +47,6 @@ it shows angry Fan speed 5
 ![screenshot 4](https://github.com/user-attachments/assets/6e8e79e5-fc7b-4626-bad1-c693ba06e854)
 it shows tensed Fan speed 4
 
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
-
-"This project captures the user's typing speed in real time, compares it to defined levels (slow, medium, fast), and then dynamically plays a corresponding fan sound to reflect their mood or energy. The faster you type, the louder and stronger the fan sound becomes — simulating how motivation or stress increases with pace. The core logic is implemented in vanilla JavaScript using keyboard event listeners and audio playback."
 
 
 
